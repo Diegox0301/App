@@ -1,0 +1,30 @@
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\obj\Debug\net6.0\AppSerie.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\obj\Debug\net6.0\AppSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\obj\Debug\net6.0\AppSerie.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\obj\Debug\net6.0\AppSerie.AssemblyInfo.cs
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\obj\Debug\net6.0\AppSerie.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\bin\Debug\net6.0\AppSerie.exe
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\bin\Debug\net6.0\AppSerie.deps.json
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\bin\Debug\net6.0\AppSerie.runtimeconfig.json
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\bin\Debug\net6.0\AppSerie.dll
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\bin\Debug\net6.0\ref\AppSerie.dll
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\bin\Debug\net6.0\AppSerie.pdb
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\obj\Debug\net6.0\AppSerie.dll
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\obj\Debug\net6.0\ref\AppSerie.dll
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\obj\Debug\net6.0\AppSerie.pdb
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie\obj\Debug\net6.0\AppSerie.genruntimeconfig.cache
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\bin\Debug\net6.0\AppSerie.exe
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\bin\Debug\net6.0\AppSerie.deps.json
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\bin\Debug\net6.0\AppSerie.runtimeconfig.json
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\bin\Debug\net6.0\AppSerie.dll
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\bin\Debug\net6.0\ref\AppSerie.dll
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\bin\Debug\net6.0\AppSerie.pdb
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\obj\Debug\net6.0\AppSerie.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\obj\Debug\net6.0\AppSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\obj\Debug\net6.0\AppSerie.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\obj\Debug\net6.0\AppSerie.AssemblyInfo.cs
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\obj\Debug\net6.0\AppSerie.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\obj\Debug\net6.0\AppSerie.dll
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\obj\Debug\net6.0\ref\AppSerie.dll
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\obj\Debug\net6.0\AppSerie.pdb
+C:\Users\Diego\Desktop\DIO\App de series\AppSerie - Copia\obj\Debug\net6.0\AppSerie.genruntimeconfig.cache
